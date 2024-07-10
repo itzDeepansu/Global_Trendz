@@ -1,0 +1,9 @@
+.categoryarea {
+    gap: 10px;
+    overflow-x: scroll;
+    padding-top: 20px;
+  }
+  .categoryarea::-webkit-scrollbar {
+    display: none;
+  }
+  

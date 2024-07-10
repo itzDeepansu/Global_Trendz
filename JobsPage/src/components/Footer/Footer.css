@@ -1,0 +1,16 @@
+.footer{
+    background-color: #eb1c24;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 90px;
+}
+.towardsright{
+    margin-left:auto;
+}
+.penguineimg{
+    position: static;
+    height: 90px;
+    transform: translateY(-20px);
+}

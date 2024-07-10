@@ -1,0 +1,112 @@
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-row {
+  flex-direction: row;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-end {
+  justify-content: end;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-around {
+  justify-content: space-around;
+}
+.items-center {
+  align-items: center;
+}
+.gap-1 {
+  gap: 1rem;
+}
+.gap-2 {
+  gap: 2rem;
+}
+.gap-3 {
+  gap: 3rem;
+}
+.gap-4 {
+  gap: 4rem;
+}
+.gap-5 {
+  gap: 5rem;
+}
+.border-silver {
+  border: 1px solid #dee2e6;
+}
+.border-silver:focus {
+  border: 1px solid #dee2e6;
+}
+.outiline-none {
+  outline: none;
+}
+.border-none {
+  border: none;
+}
+.w-full {
+  width: 100%;
+}
+.w-32{
+  width: 32rem;
+}
+.w-16 {
+  width: 16rem;
+}
+.w-14 {
+  width: 14rem;
+}
+.w-14p2 {
+  width: 14.2rem;
+}
+.h-full {
+  height: 100%;
+}
+.h-3 {
+  height: 58px;
+}
+.h-mid-2 {
+  height: 2.5rem;
+}
+.h-2 {
+  height: 2rem;
+}
+.px-1 {
+  padding: 0rem 1rem;
+}
+.continue-button {
+  background-color: #f26b70;
+  color: white;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.right-0 {
+  right: 0;
+}
+.bottom-0 {
+  bottom: 0;
+}
+.ml-auto {
+  margin-left: auto;
+}
+.red-border-focus:focus{
+  border: 1px solid #f26b70 !important;
+}
+.h-100{
+  height: 100vh;
+}
+.w-100{
+  width: 100vw;
+}
+.mt-4{
+  margin-top: 70px;
+}

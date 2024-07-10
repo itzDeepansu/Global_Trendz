@@ -1,0 +1,23 @@
+*{
+    border-radius: 6px;
+    font-family: Segoe UI, Segoe UI Bold, Segoe UI Light, Segoe UI Italic;
+    color: black;
+}
+.form1{
+    height: 100vh;
+    width: 100vw;
+}
+.formOuter{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+    padding: 1rem;
+    gap: 1rem;
+}
+::placeholder{
+    color:black;
+}
+input{
+    padding: 0rem 0.5rem;
+}
+/* select{
+    padding: 0rem 1rem;
+} */

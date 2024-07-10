@@ -1,0 +1,52 @@
+.parallaxContainer {
+    background-attachment: fixed;
+    /* background-image: url("https://grubdigest.com/static/media/parallax-bg.c968545153587a39a86d.webp"); */
+    background-image: url("https://grubdigest.com/static/media/dm-solutions-bg.560837d882de3bc34fdf.jpg");
+    height: auto;
+    padding: 135px 15vw 50px 15vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    color: white;
+    font-size: 34px;
+    position: relative;
+  }
+  .jobseekerpara {
+    padding: 20px 0px;
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .jobseekertitle {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    font-weight: 200;
+    padding-left: 8px;
+  }
+  .jobseekertitle::before {
+    background: white;
+  }
+  .button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #eb1c24;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  .button:hover {
+    background-color: white;
+    color: black;
+    transition: all 0.3s ease-in-out;
+  }
+  .penguinejobseeker {
+    position: absolute;
+    transform: scale(1.8);
+    right: -22%;
+    bottom: 1rem;
+  }
+  .penguinejobseeker{
+    -webkit-box-reflect: left;
+  }
+  

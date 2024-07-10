@@ -1,0 +1,12 @@
+.titlesection {
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+  .container {
+    justify-content: center;
+    gap: 10px;
+  }
+  .titlesection > img {
+    max-height: 55vh;
+  }

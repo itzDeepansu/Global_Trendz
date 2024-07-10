@@ -1,0 +1,15 @@
+*{
+    border-radius: 6px;
+    font-family: Segoe UI, Segoe UI Bold, Segoe UI Light, Segoe UI Italic;
+    color: black;
+}
+.form4{
+    height: 100vh;
+    width: 100vw;
+}
+::placeholder{
+    color:black;
+}
+select{
+    padding: 0rem 0.5rem;
+}

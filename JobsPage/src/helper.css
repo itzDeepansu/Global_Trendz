@@ -1,0 +1,83 @@
+* {
+  font-family: Raleway, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.size-32 {
+  font-size: 32px;
+}
+.size-18 {
+  font-size: 18px;
+}
+.size-25 {
+  font-size: 25px;
+}
+.size-10{
+  font-size: 11px;
+}
+.paddingx {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+.textcenter {
+  text-align: center;
+}
+.red {
+  color: #eb1c24;
+}
+.gap1 {
+  margin-left: 0.3rem;
+}
+.overflowhidden {
+  overflow: hidden;
+}
+.leftredborder {
+  border-left: 1px solid #eb1c24;
+  padding-left: 8px;
+}
+.leftwhiteborder {
+  border-left: 1px solid rgb(231, 222, 222);
+  padding-left: 8px;
+}
+.flexgap5{
+  gap:5px;
+}
+.flexgap10{
+  gap: 10px;
+}
+.flexgap50{
+  gap: 50px;
+}
+.flexgap25{
+  gap:25px;
+}
+.padding10{
+  padding: 10px;
+}
+.padding20{
+  padding: 26px 20px;
+}
+.sticky{
+  position: sticky;
+  bottom:0px;
+  z-index: 1020;
+}
+.opacity40{
+  opacity: 60%;
+}
+.invert{
+  filter: invert(100%);
+}

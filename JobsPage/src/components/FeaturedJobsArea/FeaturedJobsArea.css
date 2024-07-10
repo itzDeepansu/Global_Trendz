@@ -1,0 +1,21 @@
+.jobsarea {
+  gap: 10px;
+  padding-top: 20px;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+}
+.jobsarea::-webkit-scrollbar {
+  display: none;
+}
+.featuredparallax {
+  background-attachment: fixed;
+  background-image: url("https://grubdigest.com/static/media/parallax-bg.c968545153587a39a86d.webp");
+  height: auto;
+  padding: 40px 1.5rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+  /* font-size: 34px; */
+  position: relative;
+}
